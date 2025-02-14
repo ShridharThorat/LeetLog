@@ -1,6 +1,5 @@
-# LeetLog
-Gives a quick way to log data about the question's you have solved into a csv.
-If imported to Google Sheets, you can use it efficiently to revise notes and understand how long different question take.
+# LeetLog: Track, Analyze, and Improve Your LeetCode Progress
+Easily log your solved questions into a CSV for better tracking. Import into Google Sheets to spot patterns, refine your approach, and optimize your problem-solving time. Perfect for revision and efficiency!
 
 ## Instructions
 1. Make sure you have defined the constants in the `file_reader.py`.
